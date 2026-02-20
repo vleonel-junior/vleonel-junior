@@ -18,7 +18,5 @@ I am driven by the mission of bridging the gap between rigorous mathematical res
 
 - **Domains:** Machine Learning, Deep Learning, Computer Vision, LLMs, Applied Mathematics.
 - **Mission:** Making AI more robust, interpretable, and understandable from a theoretical standpoint.
-
-*(Note: Add your favorite languages and tools here!)*
 ---
 ⭐️ *From abstract analysis to real-world AI deployment.*
