@@ -11,7 +11,7 @@ I am driven by the mission of bridging the gap between rigorous mathematical res
 - 🧠 **My background:** Stochastic modeling and statistics.
 - 🎯 **My goal:** Taking mathematical insights and turning them into experimental solutions that solve real-world problems.
 - 💬 **Ask me about:** Machine Learning, Stochastic Modeling, Statistics, and the theoretical foundations of AI.
-- 📫 **How to reach me:** Check out my [Portfolio](https://vleonel-junior.github.io/Portfolio-main/) or reach out on [LinkedIn](#). *(Ajoute ton lien LinkedIn ici)*
+- 📫 **How to reach me:** Check out my [Portfolio](https://vleonel-junior.github.io/Portfolio-main/) or reach out on [LinkedIn](https://www.linkedin.com/in/l%C3%A9onel-junior-vodounou-7864b0210).
 - ⚡ **Fun fact:** I believe the best AI models are built exactly where pure math meets high-performance engineering! 🔢💻
 
 ### 🛠️ Core Focus & Technologies
